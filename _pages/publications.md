@@ -30,7 +30,7 @@ _________________
 
 # Datasets
 
-* **Ahmed, M. I.**, Stadnyk, T. , Pietroniro, A. , Awoye, H. , Bajracharya, A. , Mai, J. , Tolson, B. , Shen, H. , Craig, J. , Gervais, M. , Sagan, K. , Wruth, S. , Koenig, K. , Lilhare, R. , Déry, S. , Pokorny, S. , Venema, H. , Muhammad, A. , Taheri, M. (2023) Learning From Hydrological Models’ Challenges: A Case Study from the Nelson Basin Model Intercomparison Project. Federated Research Data Repository. https://doi.org/10.20383/102.0705
+* **Ahmed, M. I.**, Stadnyk, T., Pietroniro, A., Awoye, H., Bajracharya, A., Mai, J., Tolson, B., Shen, H., Craig, J., Gervais, M., Sagan, K., Wruth, S., Koenig, K., Lilhare, R., Déry, S., Pokorny, S., Venema, H., Muhammad, A., Taheri, M. (2023) Learning From Hydrological Models’ Challenges: A Case Study from the Nelson Basin Model Intercomparison Project. Federated Research Data Repository. https://doi.org/10.20383/102.0705
 * **Ahmed, M. I.**, Shook, K., Pietroniro, A., Stadnyk, T., Pomeroy, J. W., Pers, C., Gustafsson, D. (2022). Implementing A Parsimonious Variable Contributing Area Algorithm for Prairie Pothole Region in the HYPE Modelling Framework. In Environmental Modelling & Software (Version 1). Zenodo. https://doi.org/10.5281/zenodo.7221439
 
 _________________
@@ -38,8 +38,7 @@ _________________
 
 # Conference Presentations
 
-* **Ahmed, M. I.**, Stadnyk, T., Pietroniro, A., Mai, J., Tolson, B., Shen, H., Craig, J., Taheri, M. (2023) Nelson-MIP II: A Multi-model Intercomparison Project on the Saskatchewan-Nelson-Churchill River Basin, National Conference, Halifax, NS, June 2023. (Oral presentation).  
-Awoye, H., et al. (2023). Multi-model Intercomparison Project on the Saskatchewan-Nelson-Churchill River Basin (Nelson-MIP) – Phase 1, CGU Meeting, Banff, AB, May 2023. (Oral presentation).
+* **Ahmed, M. I.**, Stadnyk, T., Pietroniro, A., Mai, J., Tolson, B., Shen, H., Craig, J., Taheri, M. (2023) Nelson-MIP II: A Multi-model Intercomparison Project on the Saskatchewan-Nelson-Churchill River Basin, National Conference, Halifax, NS, June 2023. (Oral presentation).
 * **Ahmed, M. I.**, Stadnyk, T., Pietroniro, A., Awoye, H., et al. (2023). Multi-model Intercomparison Project on the Saskatchewan-Nelson-Churchill River Basin (Nelson-MIP) – Phase 1, CGU Meeting, Banff, AB, May 2023. (Oral presentation).
 * **Ahmed M. I.**, Shook K., Pietroniro A., Stadnyk T., Pomeroy J. W., Pers C., Gustafsson D. (2022). Incorporating The Fill and Spill Mechanism in the HYPE Modelling Framework, CGU Meeting, Banff, AB, May 2023. (Oral presentation).
 * **Ahmed, M. I.**, Shook, K., Pietroniro, A., Stadnyk, T., Pomeroy, J. W., Pers, C., and Gustafsson, D. (2023). Incorporating The Variable Contributing Area Concept in The HYPE Modelling Framework, EGU General Assembly 2023, Vienna, Austria, 24–28 Apr 2023, EGU23-10593, https://doi.org/10.5194/egusphere-egu23-10593 (Oral presentation).
