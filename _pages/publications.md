@@ -38,6 +38,8 @@ _________________
 
 # Conference Presentations
 
+* **Ahmed, M. I.**, Stadnyk, T., Pietroniro, A., Mai, J., Tolson, B., Shen, H., Craig, J., Taheri, M. (2023). Beyond Model Ranking and Uptake: Challenges and Insights from The Nelson-MIP II Project. AGU Fall Meeting, San Francisco, CA, December 2023. (Oral presentation).
+* **Ahmed, M. I.**, Clark, M., Pietroniro, A., Stadnyk, T. (2023). An Improved Representation of The Variable Contributing Area Concept in Land Surface Models. AGU Fall Meeting, San Francisco, CA, December 2023. (Oral presentation).
 * **Ahmed, M. I.**, Stadnyk, T., Pietroniro, A., Mai, J., Tolson, B., Shen, H., Craig, J., Taheri, M. (2023) Nelson-MIP II: A Multi-model Intercomparison Project on the Saskatchewan-Nelson-Churchill River Basin, National Conference, Halifax, NS, June 2023. (Oral presentation).
 * **Ahmed, M. I.**, Stadnyk, T., Pietroniro, A., Awoye, H., et al. (2023). Multi-model Intercomparison Project on the Saskatchewan-Nelson-Churchill River Basin (Nelson-MIP) – Phase 1, CGU Meeting, Banff, AB, May 2023. (Oral presentation).
 * **Ahmed M. I.**, Shook K., Pietroniro A., Stadnyk T., Pomeroy J. W., Pers C., Gustafsson D. (2022). Incorporating The Fill and Spill Mechanism in the HYPE Modelling Framework, CGU Meeting, Banff, AB, May 2023. (Oral presentation).
