@@ -16,6 +16,7 @@ header:
 
 # Journal Articles
 
+* Yosri, A., Ghaith, M., **Ahmed, M.I.**, El-Dakhakhni, W., (2024). Analytically Enhanced Random Walk Approach for Rapid Concentration Mapping in Fractured Aquifers. Water (Basel) 16, 1020. https://doi.org/10.3390/w16071020
 * **Ahmed, M.I.**, Shook, K., Pietroniro, A., Stadnyk, T., Pomeroy, J.W., Pers, C., Gustafsson, D., (2023). Implementing a parsimonious variable contributing area algorithm for the prairie pothole region in the HYPE modelling framework. Environmental Modelling & Software 167, 105769. https://doi.org/10.1016/j.envsoft.2023.105769
 * **Ahmed, M.I.**, Stadnyk, T., Pietroniro, A., Awoye, H., Bajracharya, A., Mai, J., Tolson, B.A., Shen, H., Craig, J.R., Gervais, M., Sagan, K., Wruth, S., Koenig, K., Lilhare, R., Déry, S.J., Pokorny, S., Venema, H., Muhammad, A., Taheri, M., (2023). Learning From Hydrological Models’ Challenges: A Case Study from the Nelson Basin Model Intercomparison Project. Journal of Hydrology 129820. https://doi.org/10.1016/j.jhydrol.2023.129820
 * Bajracharya, A.R., **Ahmed, M.I.**, Stadnyk, T., Asadzadeh, M. (2023). Process based calibration of a continental-scale hydrological model using soil moisture and streamflow data. Journal of Hydrology: Regional Studies 47, 101391. https://doi.org/10.1016/j.ejrh.2023.101391.
@@ -30,6 +31,7 @@ _________________
 
 # Datasets
 
+* **Ahmed, M. I.**, Stadnyk, T., Pietroniro, A., Mai, J., Tolson, B., Shen, H., Craig, J., Taheri, M. (2024). Navigating Hydrological Model Intercomparison Projects in Cold Regions: Unveiling Challenges, Insights, and Future Paths – A Case from Nelson-MIP II. Federated Research Data Repository. https://doi.org/10.20383/103.0913
 * **Ahmed, M. I.**, Stadnyk, T., Pietroniro, A., Awoye, H., Bajracharya, A., Mai, J., Tolson, B., Shen, H., Craig, J., Gervais, M., Sagan, K., Wruth, S., Koenig, K., Lilhare, R., Déry, S., Pokorny, S., Venema, H., Muhammad, A., Taheri, M. (2023) Learning From Hydrological Models’ Challenges: A Case Study from the Nelson Basin Model Intercomparison Project. Federated Research Data Repository. https://doi.org/10.20383/102.0705
 * **Ahmed, M. I.**, Shook, K., Pietroniro, A., Stadnyk, T., Pomeroy, J. W., Pers, C., Gustafsson, D. (2022). Implementing A Parsimonious Variable Contributing Area Algorithm for Prairie Pothole Region in the HYPE Modelling Framework. In Environmental Modelling & Software (Version 1). Zenodo. https://doi.org/10.5281/zenodo.7221439
 
@@ -38,6 +40,7 @@ _________________
 
 # Conference Presentations
 
+* Stadnyk, T., **Ahmed, M. I.**, Clark, M., and Pietroniro, A.: An Improved Representation of The Variable Contributing Area Concept in Hydrologic and Land Surface Models, EGU General Assembly 2024, Vienna, Austria, 14–19 Apr 2024, EGU24-13230, https://doi.org/10.5194/egusphere-egu24-13230, 2024 (Oral presentation).
 * **Ahmed, M. I.**, Stadnyk, T., Pietroniro, A., Mai, J., Tolson, B., Shen, H., Craig, J., Taheri, M. (2023). Beyond Model Ranking and Uptake: Challenges and Insights from The Nelson-MIP II Project. AGU Fall Meeting, San Francisco, CA, December 2023. (Oral presentation).
 * **Ahmed, M. I.**, Clark, M., Pietroniro, A., Stadnyk, T. (2023). An Improved Representation of The Variable Contributing Area Concept in Land Surface Models. AGU Fall Meeting, San Francisco, CA, December 2023. (Oral presentation).
 * **Ahmed, M. I.**, Stadnyk, T., Pietroniro, A., Mai, J., Tolson, B., Shen, H., Craig, J., Taheri, M. (2023) Nelson-MIP II: A Multi-model Intercomparison Project on the Saskatchewan-Nelson-Churchill River Basin, National Conference, Halifax, NS, June 2023. (Oral presentation).
