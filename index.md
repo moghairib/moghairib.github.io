@@ -32,9 +32,9 @@ Commented section
 -->
 
 |-------------|-------------|
-| <img width=50/> Apr 2025 <br/> Present <br/>*Full time* | **Senior Research Associate**<br/>*University of Calgary, Department of Civil Engineering, Canada*<br/> Improving large domain simulations in LSMs |
-| <img width=50/> Apr 2024 <br/> Apr 2025 <br/>*Full time* | **Research Associate**<br/>*University of Calgary, Department of Civil Engineering, Canada*<br/> Improving lateral flow and pothole representation in LSMs |
-| <img width=50/> Jan 2021 <br/> Apr 2024 <br/>*Full time* | **Research/Post-Doctoral Associate**<br/>*University of Calgary, Department of Geography, Canada*<br/>Project Manager and Lead Modeller of multiple Global Water Futures (GWF) projects including (Nelson-MIP, WRM team, core modelling team) |
+| May 2025 <br/> Present <br/>*Full time* | **Senior Research Associate**<br/>*University of Calgary, Department of Civil Engineering, Canada*<br/> Improving large domain simulations in LSMs |
+| May 2024 <br/> Apr 2025 <br/>*Full time* | **Research Associate**<br/>*University of Calgary, Department of Civil Engineering, Canada*<br/> Improving lateral flow and pothole representation in LSMs |
+| Jan 2021 <br/> Apr 2024 <br/>*Full time* | **Research/Post-Doctoral Associate**<br/>*University of Calgary, Department of Geography, Canada*<br/>Project Manager and Lead Modeller of multiple Global Water Futures (GWF) projects including (Nelson-MIP, WRM team, core modelling team) |
 | Jan 2017<br/>Dec 2020<br/>*Part time* | **Graduate Teaching and Research Assistant**<br/>*University of Saskatchewan, Civil Engineering, Canada*<br/>Developing a coupled hydrologic-water resources management model to improve the streamflow simulation of the complex Qu’Appelle River Basin, Saskatchewan, Canada.|
 | Sept 2012<br/>Dec 2016<br/>*Full time*| **Graduate Teaching and Research Assistant**<br/>*Faculty of Engineering, Cairo University, Egypt*|
 | Jan 2014<br/>Dec 2016<br/>*Part time*| **Hydrologic Engineer**<br/>*Civil and Environmental Engineering Group (CEEG), Egypt*<br/>Participating in designing flood protection works and internal storm drainage systems for many airports in the MENA region|
