@@ -21,6 +21,7 @@ Commented section
 
 | Duration | Location | Courses |
 | ----------- | ----------- | ----------- |
+| Jan 2025<br/>Apr 2025 | Department of Geography, University of Calgary, Canada | Advanced Spatial Analysis and Modelling (GEOG 639) |
 | Sep 2022<br/>Dec 2022 | Schulich School of Engineering, University of Calgary, Canada | Hydrology (ENCI 510) |
 
 ## Teaching Assistant

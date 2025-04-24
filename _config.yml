@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mohamed Ismaiel Ahmed's Site"
+title                    : "Mohamed Moghairib's Site"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Mohamed Ismaiel Ahmed"
+name                     : "Mohamed Moghairib"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mohamed Ismaiel Ahmed, Ph.D., P.Eng."
+  name             : "Mohamed Moghairib, Ph.D., P.Eng."
   avatar           : "/assets/images/my_photo.png"
-  bio              : "Postdoc & Manager of GWF projects @UCalgary. Interested in cold region hydrologic modelling."
+  bio              : "Senior Research Associate @UNUWaterHub @UCalgary. Interested in cold region hydrologic modelling."
   location         : "Alberta, CA"
   email            : mohamedismaiel.ahmed@ucalgary.ca
   links:
@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/MIsmlAhmed"
+      url: "https://github.com/moghairib"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -135,8 +135,8 @@ author:
       icon: "googlescholar ic-fw"
       #url: "https://scholar.google.com/citations?user=hURRUhwAAAAJ&hl=en" 
     - label: "ORCID"
-      icon: "brands-orcid ic-fw"
-      #url: "https://orcid.org/0000-0003-3423-7041" 
+      icon: "fa-brands fa-orcid"
+      url: "https://orcid.org/0000-0003-3423-7041" 
     - label: "ResearchGate"
       icon: "brands-researchgate ic-fw"
       #url: "https://www.researchgate.net/profile/Mohamed-Ahmed-143" 
@@ -153,7 +153,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/MIsmlAhmed"
+      url: "https://github.com/moghairib"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:

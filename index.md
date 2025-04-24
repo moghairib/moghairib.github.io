@@ -9,8 +9,8 @@ header:
   overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
 ---
 
-Dr. Ahmed is a research associate at the University of Calgary - Computational Hydrology Research Group in Calgary, Alberta, CA. He is also a registered Professional Engineer (P.Eng.) in Saskatchewan, CA, with more than 4 years of international work experience as a hydrologic and hydrogeologic engineer.
-Dr. Ahmed is currently leading and managing a couple of projects that are funded under the Global Water Futures program ([GWF](https://gwf.usask.ca/)).  
+Dr. Moghairib is a research associate at the University of Calgary - Computational Hydrology Research Group in Calgary, Alberta, CA. He is also a registered Professional Engineer (P.Eng.) in Saskatchewan, CA, with more than 4 years of international work experience as a hydrologic and hydrogeologic engineer.
+Dr. Moghairib is currently leading and managing a couple of projects that are funded under the Global Water Futures program ([GWF](https://gwf.usask.ca/)).  
 {: .text-justify}
 
 Current research involves the development of new conceptual, empirical, and physical methods to improve the performance of various hydrologic models in simulating cold region processes, with emphasis on the North American prairie region. The research also involves simulating the flooding extents under future climate change for multiple locations across Western Canada.
@@ -32,7 +32,8 @@ Commented section
 -->
 
 |-------------|-------------|
-| <img width=50/> Apr 2024 <br/> Present <br/>*Full time* | **Research Associate**<br/>*University of Calgary, Department of Civil Engineering, Canada*<br/> Improving lateral flow and pothole representation in LSMs |
+| <img width=50/> Apr 2025 <br/> Present <br/>*Full time* | **Senior Research Associate**<br/>*University of Calgary, Department of Civil Engineering, Canada*<br/> Improving large domain simulations in LSMs |
+| <img width=50/> Apr 2024 <br/> Apr 2025 <br/>*Full time* | **Research Associate**<br/>*University of Calgary, Department of Civil Engineering, Canada*<br/> Improving lateral flow and pothole representation in LSMs |
 | <img width=50/> Jan 2021 <br/> Apr 2024 <br/>*Full time* | **Research/Post-Doctoral Associate**<br/>*University of Calgary, Department of Geography, Canada*<br/>Project Manager and Lead Modeller of multiple Global Water Futures (GWF) projects including (Nelson-MIP, WRM team, core modelling team) |
 | Jan 2017<br/>Dec 2020<br/>*Part time* | **Graduate Teaching and Research Assistant**<br/>*University of Saskatchewan, Civil Engineering, Canada*<br/>Developing a coupled hydrologic-water resources management model to improve the streamflow simulation of the complex Qu’Appelle River Basin, Saskatchewan, Canada.|
 | Sept 2012<br/>Dec 2016<br/>*Full time*| **Graduate Teaching and Research Assistant**<br/>*Faculty of Engineering, Cairo University, Egypt*|

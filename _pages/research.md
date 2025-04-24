@@ -12,14 +12,14 @@ header:
   overlay_image: /assets/images/research_banner.jpg
   overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
 ---
-The following are the projecting that Dr. Ahmed is contributing to.
+The following are the projecting that Dr. Moghairib is contributing to.
 # Current Projects
 
 ## Model Intercomparison and Analysis
 
 ![IMPC logo](/assets/images/IMPC_logo.png "Integrated Modelling Program for Canada"){: .align-right style="width: 20%;"}
 
-Dr. Ahmed is managing and leading the modelling efforts of Nelson-MIP project, which is funded by the Integrated Modelling Program for Canada (IMPC - Theme A6). The project involves testing multiple hydrologic models over the international Nelson-Churchill River basin in North America. The work is being conducted in collaboration with researchers and practitioners across Canada under the umbrella of this project. This project includes two-way knowledge transfer between researchers and practitioners to build better hydrologic models of the area. The participating models are tested for their ability to simulate the streamflow and other hydrologic signatures of that complex basin.
+Dr. Moghairib is managing and leading the modelling efforts of Nelson-MIP project, which is funded by the Integrated Modelling Program for Canada (IMPC - Theme A6). The project involves testing multiple hydrologic models over the international Nelson-Churchill River basin in North America. The work is being conducted in collaboration with researchers and practitioners across Canada under the umbrella of this project. This project includes two-way knowledge transfer between researchers and practitioners to build better hydrologic models of the area. The participating models are tested for their ability to simulate the streamflow and other hydrologic signatures of that complex basin.
 
 [Learn more](https://gwf.usask.ca/impc/science/research-themes/theme-a6.php){: .btn .btn--info}
 
@@ -48,7 +48,7 @@ Currently available hydrologic models cannot simulate the hydrology of the prair
 
 ## Flood Inundation Mapping
 
-Dr. Ahmed is involved in multiple projects that investigate how the flooding extents will change under future climate for multiple cities/communities across Western Canada. The projects also look at trying to identify the change in the flooding extent when altering regulation scenarios of major lakes/reservoirs that are nearby the studied areas.
+Dr. Moghairib is involved in multiple projects that investigate how the flooding extents will change under future climate for multiple cities/communities across Western Canada. The projects also look at trying to identify the change in the flooding extent when altering regulation scenarios of major lakes/reservoirs that are nearby the studied areas.
 {: .text-justify}
 ______________
 
@@ -58,6 +58,6 @@ ______________
 ## FloodNet
 
 ![FloodNet logo](/assets/images/FloodNet_logo.png "FloodNet"){: .align-right style="width: 20%;"} 
-Dr. Ahmed led the modeling efforts of this project (FloodNet - Theme 4-3), investigates and predicts the hydrologic connectivity in watersheds under flood conditions. As part of that project, multiple modelling approaches were built to simulate flood magnitude and its spatiotemporal inundation extents. The approaches can assess flood impacts on the varying watershed components (rural, agricultural, lakes, wetlands, etc.). 
+Dr. Moghairib led the modeling efforts of this project (FloodNet - Theme 4-3), investigates and predicts the hydrologic connectivity in watersheds under flood conditions. As part of that project, multiple modelling approaches were built to simulate flood magnitude and its spatiotemporal inundation extents. The approaches can assess flood impacts on the varying watershed components (rural, agricultural, lakes, wetlands, etc.). 
 {: .text-justify}
 [Learn more](https://floodnet.webflow.io/){: .btn .btn--info}
